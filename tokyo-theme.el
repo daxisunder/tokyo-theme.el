@@ -10,8 +10,8 @@
 (deftheme tokyo
   "It's like tokyo, but at night (for emacs 24+)")
 
-(let ((tokyo-bg "#24283b")
-      (tokyo-bg-dark "#1f2335")
+(let ((tokyo-bg "#000000")
+      (tokyo-bg-dark "#1a1b26")
       (tokyo-bg-hl "#292e42")
       (tokyo-fg "#c0caf5")
       (tokyo-fg-1 "#a9b1d6")
@@ -70,7 +70,7 @@
    `(success ((t (:foreground ,tokyo-green :weight bold))))
    `(warning ((t (:foreground ,tokyo-orange :weight bold))))
    `(tooltip ((t (:foreground ,tokyo-fg :background ,tokyo-fg))))
-     
+
    ;; Calendar
    `(holiday-face ((t (:foreground ,tokyo-red-1))))
 
