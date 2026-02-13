@@ -17,7 +17,7 @@
       (tokyo-fg-1 "#a9b1d6")
       (tokyo-fg-2 "#3b4261")
       (tokyo-white "#ffffff")
-      (tokyo-black "#414868")
+      (tokyo-black "#000000")
       (tokyo-comment "#565f89")
       (tokyo-dark "#545c7e")
       (tokyo-dark+1 "#737aa2")
